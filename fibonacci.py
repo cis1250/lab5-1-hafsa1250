@@ -37,3 +37,6 @@ def print_sequence(seq):
 terms = num_of_terms() #validating and returning user input
 sequence = fibonacci_sequence(terms) #generating the Fibonacci sequence
 print_sequence(sequence) #printing the sequence
+
+#Grading Comments:
+# Your code crashes when you enter 0.
